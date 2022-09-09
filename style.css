@@ -1,0 +1,25 @@
+#content {
+    width: 300px;
+    border: 15px solid red;
+    padding: 50px;
+    margin: 20px;
+    text-align: center;
+}
+
+header{
+    text-align: left;
+    
+    padding-bottom: 30px;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    border: 3px solid gold;
+}
+
+html{
+    background-color: antiquewhite;
+}
