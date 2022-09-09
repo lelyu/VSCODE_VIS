@@ -1,37 +1,47 @@
 #content {
     padding: 50px;
-    margin: 20px;
-    height: 100vh;
+    margin: 30px;
+    height: 50vh;
 }
 
-.div p{
+/* .div p{
     border: 20px solid brown;
     text-align: center;
-}
+    font-style: italic;
+} */
+
 header{
     text-align: center;
     padding-bottom: 30px;
+    padding-top: 50px;
+    background-image: url("1550509256606.png");
 }
 
 .button{
     text-align: center;
     margin: auto;
     display: block;
+    padding-bottom: 30px;
 }
 
 html{
-    background-color: antiquewhite;
+    background-color: rgb(245, 245, 245);
 }
 
 .resize {
     float: right;
-    height: 200 px;
-    width: 200 px;
-    margin: 15 px;
+    height: 400 px;
+    width: 400 px;
+    margin: 30 px;
     border-radius: 50%;
     display: block;
 }
 
+.hyperlink a:hover{
+    background-color: yellow;
+}
+
 .hyperlink{
-    float: right;
+    text-align: center;
+    padding-top: 50px;
 }
