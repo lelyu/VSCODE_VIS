@@ -4,15 +4,9 @@
     height: 50vh;
 }
 
-/* .div p{
-    border: 20px solid brown;
-    text-align: center;
-    font-style: italic;
-} */
-
 header{
     text-align: center;
-    padding-bottom: 30px;
+    padding-bottom: 50px;
     padding-top: 50px;
     background-image: url("1550509256606.png");
 }
@@ -25,7 +19,7 @@ header{
 }
 
 html{
-    background-color: rgb(245, 245, 245);
+    background-color:khaki
 }
 
 .resize {
@@ -43,5 +37,5 @@ html{
 
 .hyperlink{
     text-align: center;
-    padding-top: 50px;
+    padding-top: 20px;
 }
