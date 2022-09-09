@@ -4,7 +4,6 @@
     height: 50vh;
 }
 
-
 header{
     text-align: center;
     padding-bottom: 50px;
@@ -23,13 +22,16 @@ html{
     background-color:khaki
 }
 
+div p{
+    background-color: whitesmoke;
+}
+
 .resize {
     float: right;
-    height: 400 px;
+    height: 600 px;
     width: 400 px;
-    margin: 30 px;
-    border-radius: 50%;
-    display: block;
+    margin: 40 px;
+    display: inline-flex;
 }
 
 .hyperlink a:hover{
